@@ -6,7 +6,7 @@ my name is mujahidul islam,i am a student of lab University of applied science
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a project
-- 🌱 I’m currently learning finish language
+- 🌱 I’m currently learning finnish language
 - 👯 I’m looking to collaborate on video
 - 🤔 I’m looking for help with my study
 - 💬 Ask me about my job
