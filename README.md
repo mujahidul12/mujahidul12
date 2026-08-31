@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 my name is mujahidul islam,i am a student of lab University of applied science
-**mujahidul12/mujahidul12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
