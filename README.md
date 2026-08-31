@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on video
 - 🤔 I’m looking for help with my study
 - 💬 Ask me about my job
-- 📫 How to reach me: monile
+- 📫 How to reach me: mobile
 - 😄 Pronouns: he
 - ⚡ Fun fact: nothing
 
